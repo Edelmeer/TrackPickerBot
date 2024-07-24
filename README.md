@@ -12,7 +12,7 @@
    cd repo
    
 2. Установите зависимости:
-
+   Важно: Если вы используете виртуальное окружение Python создается файл ".venv", убедитесь, что вы активировали его перед выполнением команды pip install -r requirements.txt. Для активации виртуального окружения обычно используются команды типа source <venv>/bin/activate для Linux/Mac или <venv>\Scripts\activate для Windows.
    ```bash
    pip install -r requirements.txt
    
